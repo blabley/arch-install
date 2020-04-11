@@ -1,4 +1,5 @@
 # arch-install
+(Forked from/credits/thanks to https://github.com/wrzlbrmft/arch-install.)
 
 A highly configurable script installing
 [Arch Linux](https://www.archlinux.org/).
